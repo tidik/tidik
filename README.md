@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BaLEE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tidik&show_icons=true&theme=ambient_gradientl)
+![BaLEE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tidik&show_icons=true&theme=ambient_gradient)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidik&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidik&theme=calm&layout=compact)
