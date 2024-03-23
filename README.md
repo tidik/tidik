@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
-- Perhaps I don't have much time to write code....
+- 🤔 Perhaps I don't have much time to write code....
 <!--
 **tidik/tidik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 current state
+## 🔭 Current state
 
 ![BaLEE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tidik&show_icons=true&theme=ambient_gradient) 
 
